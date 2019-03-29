@@ -1,3 +1,5 @@
 [Profile]
     nickname: kenkono
     age: 29
+    変数名 bloodtype
+    型     文字列
