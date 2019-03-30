@@ -1,3 +1,4 @@
 [Profile]
-    nickname: kenkono
-    age: 29
+    nickname = "kenkono"
+    age = 29
+    bloodtype = "O"
